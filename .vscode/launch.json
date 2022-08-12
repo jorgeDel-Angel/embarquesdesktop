@@ -1,0 +1,68 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "crud_basico_flutter",
+            "cwd": "crud_basico_flutter",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "crud_basico_flutter (profile mode)",
+            "cwd": "crud_basico_flutter",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "crud_basico_flutter (release mode)",
+            "cwd": "crud_basico_flutter",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "npcApp",
+            "cwd": "npcApp",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "npcApp (profile mode)",
+            "cwd": "npcApp",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "npcApp (release mode)",
+            "cwd": "npcApp",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "flutter_app",
+            "cwd": "npcApp\\flutter_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flutter_app (profile mode)",
+            "cwd": "npcApp\\flutter_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flutter_app (release mode)",
+            "cwd": "npcApp\\flutter_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
